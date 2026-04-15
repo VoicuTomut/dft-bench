@@ -50,12 +50,12 @@ dft-bench/
 
 ## Next Steps
 
-1. Select initial Material Cloud dataset
-2. Implement parser for structure extraction
-3. Implement parser for calculation parameters
-4. Implement parser for results (bands, DOS, etc.)
-5. Create AI model interface
-6. Run initial benchmarks
+1. [ ] Select initial Material Cloud dataset
+2. [ ] Implement parser for structure extraction
+3. [ ] Implement parser for calculation parameters
+4. [ ] Implement parser for results (bands, DOS, etc.)
+5. [ ] Create AI model interface
+6. [ ] Run initial benchmarks
 
 ## License
 
